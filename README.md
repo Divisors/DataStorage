@@ -1,2 +1,2 @@
 # Data Storage
-Java to turn a XML into YAML and back efficiently!
+GUI and implementation to create a user friendly way to interact with a MySQL database
